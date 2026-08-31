@@ -1,5 +1,4 @@
 import Button from '@/components/Button';
-import SectionHeading from '@/components/SectionHeading';
 import { projects } from '@/data/projects';
 import { notFound } from 'next/navigation';
 

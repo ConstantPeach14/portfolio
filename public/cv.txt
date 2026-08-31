@@ -1,0 +1,67 @@
+WANANI MAMIDZA
+071 335 7025 | wananiconstant@gmail.com
+Pretoria, South Africa
+
+─────────────────────────────────────────────────────────
+
+PROFESSIONAL SUMMARY
+
+Motivated and dedicated Computer Science graduate who has successfully completed all academic modules for a Diploma in Computer Science at Tshwane University of Technology (TUT). Possesses a solid foundation in software development, programming, database management, computer networks, systems analysis, and information technology. A fast learner with strong problem-solving, analytical, teamwork, and communication skills, eager to apply academic knowledge in a practical workplace environment while gaining valuable industry experience and contributing positively to an organization.
+
+─────────────────────────────────────────────────────────
+
+EDUCATION
+
+Diploma in Computer Science
+Tshwane University of Technology (TUT)
+
+NSC Bachelor Certificate
+Maligana Wilson Secondary School
+
+─────────────────────────────────────────────────────────
+
+PROJECTS
+
+Urban Threads Store
+• Professional e-commerce platform for urban fashion and apparel
+• Modern design with product browsing, filtering, and checkout functionality
+• Live at: https://urbanthreadsstore.infinityfree.me/
+
+Authentication Demo
+• Demonstration of secure authentication patterns and user management
+• GitHub: https://github.com/ConstantPeach14/auth-demo.git
+
+─────────────────────────────────────────────────────────
+
+TECHNICAL SKILLS
+
+Programming Languages:
+Java, JavaScript
+
+Web Development:
+HTML5, CSS3, Responsive Design, Web Development
+
+Database & Backend:
+SQL, Database Management, Database Design
+
+Software Engineering:
+Object-Oriented Programming, Software Testing, Debugging & Troubleshooting
+
+Professional Skills:
+Problem Solving, Analytical Thinking, Teamwork & Collaboration, Communication, Time Management, Adaptability & Willingness to Learn
+
+Tools & Platforms:
+NetBeans, Visual Studio Code, Git, GitHub
+
+─────────────────────────────────────────────────────────
+
+CONNECT
+
+LinkedIn: https://www.linkedin.com/in/wanani-mamidza-a02b10361
+GitHub: https://github.com/ConstantPeach14
+Email: wananiconstant@gmail.com
+Phone: 071 335 7025
+
+─────────────────────────────────────────────────────────
+
+References available upon request
